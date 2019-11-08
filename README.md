@@ -19,6 +19,8 @@ Emteq organized [Human Activty Recognition Challenge 2019](https://emteq.net/arc
 - Confusion Matrix <br/>
 ![](images/cm.png)
 
+- Classificatin Report <br/>
+![](images/report.png)
 
 # 1D CNN Model
 ```sh

@@ -1,4 +1,4 @@
-# Emteq Activity Recognition Challenge
+![](images/emteq.png)
 
 Emteq organized [Human Activty Recognition Challenge 2019](https://emteq.net/arc2019). The main theme of this challenge is to recognize different types of activities from sensor data using any machine learning model.
 
@@ -13,6 +13,12 @@ Emteq organized [Human Activty Recognition Challenge 2019](https://emteq.net/arc
 
 # Description
 - **1D CNN** is used as the deep learning model
+- Actity chart <br/>
+![](images/activitychart.png)
+
+- Confusion Matrix <br/>
+![](images/cm.png)
+
 
 # 1D CNN Model
 ```sh
@@ -27,7 +33,5 @@ model.add(Dense(n_outputs, activation='softmax'))
 ```
 
 # Prize
-- 2nd prize was won from **Sozo Lab** team
-
-
-
+- 2nd prize was won from **Sozo Lab** team. [Result](https://emteq.net/arc2019) <br/>
+![](images/challengeresult.png)
